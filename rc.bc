@@ -1,0 +1,6 @@
+/*
+ * Set defaults
+ * and call this through the use of `$BC_ENV_ARGS'
+ */
+
+scale = 10
